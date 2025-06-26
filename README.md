@@ -17,4 +17,9 @@
 - ✅ Clean and educational source code  
 
 ---
+# Methods 
+![image](https://github.com/user-attachments/assets/4c834fea-879f-4e06-80c0-1d60adf6b152)
+
+# Return
+![image](https://github.com/user-attachments/assets/d083e255-d4d5-41a8-8b0e-e8e51b5101f7)
 
