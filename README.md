@@ -1,4 +1,4 @@
-# Samux86# 🧠 sam86 — Lightweight Memory Access Toolkit for Game Hacking (C#)
+# Samux64x86 # 🧠 sam — Lightweight Memory Access Toolkit for Game Hacking (C#)
 
 `sam86` is a fast and clean memory reading/writing toolkit written in C#, specifically designed for 32-bit processes like **Mount & Blade: Warband**, but adaptable to other games and software as well.
 
@@ -23,5 +23,7 @@
 # Return
 ![image](https://github.com/user-attachments/assets/cf95e021-2b25-4c0b-afc4-6af3fae52ffe)
 
+
+##Not Available as a Library. Two Intel Architectures Available (X64/x86)
 
 
