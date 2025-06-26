@@ -17,6 +17,17 @@
 - ✅ Clean and educational source code  
 
 ---
+---
+
+## Start 
+
+- Start with new sam86 (processName) / var sam = enw sam86("anan")
+
+
+---
+
+
+
 # Methods 
 ![image](https://github.com/user-attachments/assets/4c834fea-879f-4e06-80c0-1d60adf6b152)
 
