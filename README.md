@@ -24,6 +24,6 @@
 ![image](https://github.com/user-attachments/assets/cf95e021-2b25-4c0b-afc4-6af3fae52ffe)
 
 
-##Not Available as a Library. Two Intel Architectures Available (X64/x86)
+#Not Available as a Library. Two Intel Architectures Available (X64/x86)
 
 
